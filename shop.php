@@ -22,6 +22,9 @@ $select = 'SELECT *FROM `ccustomers`';
 $i = mysqli_query($con, $select);
 
 
+// read and wright  
+
+
 
 
 // delete row
